@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+D:\workspace\WebByMyself\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1455724008.index
+\WebByMyself\src
+D:\workspace\WebByMyself\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\398438135.index
+\WebByMyself\src
