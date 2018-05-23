@@ -19,10 +19,15 @@
 			<a class="navbar-brand" href="#">Tipi</a>
 		</div>
 		<ul class="nav navbar-nav">
-			<li class="active"><a href="<%=request.getContextPath() %>/index.jsp">Home</a></li>
-			<li><a href="<%=request.getContextPath() %>/#about/login.jsp">Lab1</a></li>
-			<li><a href="<%=request.getContextPath() %>/lab2/login.jsp">Lab2</a></li>
-			<li><a href="<%=request.getContextPath() %>/lab3/reg.jsp">Lab3</a></li>
+			<li class="active"><a
+				href="<%=request.getContextPath()%>/index.jsp">Home</a></li>
+			<li><a href="<%=request.getContextPath()%>/labs/lab2/login.jsp">Lab1</a></li>
+			<li><a href="<%=request.getContextPath()%>/labs/lab2/login.jsp">Lab2</a></li>
+			<li><a href="<%=request.getContextPath()%>/labs/lab3/reg.jsp">Lab4</a></li>
+			<li><a href="<%=request.getContextPath()%>/labs/lab5/products.jsp">Lab5</a></li>
+			<li><a href="<%=request.getContextPath()%>/labs/lab6/settingConnect.jsp">Lab6</a></li>
+			<li><a href="<%=request.getContextPath()%>/labs/lab7/...">Lab7</a></li>
+			<li><a href="<%=request.getContextPath()%>/labs/lab8/upload.jsp">Lab8</a></li>
 		</ul>
 	</div>
 	</nav>
